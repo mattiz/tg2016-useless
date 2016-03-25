@@ -1,0 +1,9 @@
+c:\users\mathias\documents\visual studio 2015\Projects\tg2016-useless\tg2016-useless\bin\Debug\tg2016-useless.exe.config
+c:\users\mathias\documents\visual studio 2015\Projects\tg2016-useless\tg2016-useless\bin\Debug\tg2016-useless.exe
+c:\users\mathias\documents\visual studio 2015\Projects\tg2016-useless\tg2016-useless\bin\Debug\tg2016-useless.pdb
+c:\users\mathias\documents\visual studio 2015\Projects\tg2016-useless\tg2016-useless\obj\Debug\tg2016-useless.csprojResolveAssemblyReference.cache
+c:\users\mathias\documents\visual studio 2015\Projects\tg2016-useless\tg2016-useless\obj\Debug\tg2016_useless.Properties.Resources.resources
+c:\users\mathias\documents\visual studio 2015\Projects\tg2016-useless\tg2016-useless\obj\Debug\tg2016-useless.csproj.GenerateResource.Cache
+c:\users\mathias\documents\visual studio 2015\Projects\tg2016-useless\tg2016-useless\obj\Debug\tg2016-useless.exe
+c:\users\mathias\documents\visual studio 2015\Projects\tg2016-useless\tg2016-useless\obj\Debug\tg2016-useless.pdb
+c:\users\mathias\documents\visual studio 2015\Projects\tg2016-useless\tg2016-useless\obj\Debug\tg2016-useless.g.resources
