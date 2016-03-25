@@ -63,9 +63,9 @@ namespace tg2016_useless.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
         /// </summary>
-        internal static System.Drawing.Icon star_black {
+        internal static System.Drawing.Icon clean {
             get {
-                object obj = ResourceManager.GetObject("star_black", resourceCulture);
+                object obj = ResourceManager.GetObject("clean", resourceCulture);
                 return ((System.Drawing.Icon)(obj));
             }
         }

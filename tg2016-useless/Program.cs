@@ -33,7 +33,7 @@ namespace tg2016_useless
 
             trayIcon = new NotifyIcon();
             trayIcon.Text = "Desktop Cleaner";
-            trayIcon.Icon = tg2016_useless.Properties.Resources.star_black;
+            trayIcon.Icon = tg2016_useless.Properties.Resources.clean;
 
             trayIcon.ContextMenu = trayMenu;
             trayIcon.Visible = true;

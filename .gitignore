@@ -1,0 +1,7 @@
+tg2016-useless/bin
+tg2016-useless/obj
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
