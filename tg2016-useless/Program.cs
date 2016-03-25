@@ -59,6 +59,7 @@ namespace tg2016_useless
 
         private void OnExit(object sender, EventArgs e)
         {
+            desktopCleaner.terminate();
             Application.Exit();
         }
 

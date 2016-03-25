@@ -43,10 +43,12 @@ namespace tg2016_useless
         [DllImport("user32.dll")]
         static extern bool ShowWindow(IntPtr hWnd, int nCmdShow);
 
+        private Thread thread;
+
 
         public DesktopCleaner()
         {
-            var t = new Thread(() =>
+            thread = new Thread(() =>
             {
 
                 while (true)
@@ -78,7 +80,7 @@ namespace tg2016_useless
             });
 
 
-            t.Start();
+            thread.Start();
         }
 
 
@@ -90,6 +92,7 @@ namespace tg2016_useless
 
             return stringBuilder.ToString();
         }
+
 
         private void animateMouse( Point p1, Point p2 )
         {
@@ -106,6 +109,12 @@ namespace tg2016_useless
                 Cursor.Position = new Point(ix, iy);
                 Thread.Sleep(10);
             }
+        }
+
+
+        public void terminate()
+        {
+            thread.Abort();
         }
     }
 }
